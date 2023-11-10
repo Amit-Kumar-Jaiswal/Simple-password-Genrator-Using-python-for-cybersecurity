@@ -2,5 +2,9 @@
 
 ## This Project is about creating word list with possible number of combinations for cybersecurity
 ## This Project helps anyone to understand how the password list works and been generated using python
-### This prpject also helps anyone to initiate bruteforce attack
+## This prpject also helps anyone to initiate bruteforce attack
+
+
+
+# By Amit Kumar Jaiswal
 
